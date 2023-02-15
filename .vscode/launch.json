@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-App0Application<app0>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "io.shpthrd.app0.App0Application",
+            "projectName": "app0",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
